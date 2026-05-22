@@ -1,16 +1,20 @@
-## Hi there 👋
+# Angela Choi
 
-<!--
-**Angela-Choi/Angela-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate at the University of Pennsylvania studying Physics and Philosophy, Politics & Economics. I’m interested in robotics, physical AI, science, philosophy, and forward deployed engineering
 
-Here are some ideas to get you started:
+## Output
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Blog: [angelachoi.ghost.io](https://angelachoi.ghost.io)
+- Projects: [angelachoi.ghost.io/projects](https://angelachoi.ghost.io/projects)
+
+## Contact
+
+- [anchoi@sas.upenn.edu](mailto:anchoi@sas.upenn.edu)
+- [Linkedin](https://www.linkedin.com/in/angela-choi-5228332b0/)]
+
+## Tools
+
+**Programming:** Python, Java, OCaml, HTML/CSS, some C  
+**Engineering:** SolidWorks, Altium, OnShape, laser cutting, rapid prototyping  
+**Research:** ImageJ, microscopy, experimental setup design, data analysis  
+**Other:** technical writing, user interviews, product research, venture diligence
